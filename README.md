@@ -1,4 +1,4 @@
-# Phishing-Analysis# 
+# Phishing-Analysis
 
 ## 📘 Overview
 While going through the **TCM SOC101** course, there’s a section on phishing analysis that uses various methodologies and tools to evaluate suspicious emails.  
