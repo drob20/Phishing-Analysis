@@ -98,7 +98,7 @@ This email is classified as a **phishing attempt** based on:
 4. **Credential Harvesting** – Collects sensitive data via fraudulent forms.
 
 > **Classification:** 🟥 *Phishing – Credential Harvesting*  
-> **Impact Scope:** Student Accounts / Financial Credentials  
+> **Impact Scope:** Student Accounts / User Credentials  
 > **Confidence:** High
 
 ---
