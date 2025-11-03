@@ -119,7 +119,16 @@ This email is classified as a **phishing attempt** based on:
 | Domain | `forms[.]app` |
 | Email Subdomain | `email.saintleo[.]edu` |
 
+
 ---
 
-
 ### 🗂️ File Metadata
+- **Title:** SAINTLEO / vibeaccount Phishing Analysis  
+- **Date:** 2025-11-02  
+- **Analyst:** Devante Robinson  
+- **Classification:** Phishing – Credential Harvesting  
+- **Source:** Student Email (Redacted)  
+- **Tools Used:** MXToolBox, VirusTotal, SublimeText, Sandbox
+
+---
+
